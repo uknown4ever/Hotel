@@ -149,7 +149,7 @@ CREATE TABLE stationnement (
 );
 ```
 ## 🏛  Architecture
-![Architecture](https://github.com/user-attachments/assets/599286f3-2f4f-40d6-b8be-7030876be02d)
+<img width="1100" height="750" alt="architecture" src="https://github.com/user-attachments/assets/08445ecf-1370-4bcc-b415-00308ca5f962" />
 
 ---
 ## 🛠 Technologies Utilisées:
@@ -166,4 +166,8 @@ StarUml (Outil de diagramme)
 ## 🎥 Démo video
 
 
-https://github.com/user-attachments/assets/a7d9d23d-5c3b-4210-a3cf-fe8c67f3cb22
+
+
+https://github.com/user-attachments/assets/8537f501-e952-49b5-89d4-cb7d54c53ccb
+
+
